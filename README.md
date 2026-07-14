@@ -16,17 +16,27 @@ Each file in this repository represents a core OOP concept:
 | `NonParameterizedConstructor.java` | Implementing default constructors |
 | `ParameterizedConstructor.java` | Using constructors with parameters |
 | `CopyConstructor.java` | Object initialization via copying |
+| `CompileTimePolymorphism.java` | Method Overloading |
+| `SingleInheritance.java` | Basic Inheritance |
+| `HierarchicalInheritance.java` | Hierarchical Inheritance |
+| `MultilevelInheritance.java` | Multilevel Inheritance |
+| `BankPackage.java` | Encapsulation |
+| `Abstraction.java` | Abstract Classes |
+| `AbstractionInterface.java` | Interfaces |
 | `NOTES.md` | Comprehensive theory and notes on OOPs |
 
 ## 🛠️ Concepts Covered
 *   **Class & Objects**: Logic and runtime entity representation.
 *   **Constructors**: Non-Parameterized, Parameterized, and Copy constructors.
 *   **`this` Keyword**: Referencing current class instances.
-*   **Memory Management**: Heap vs Stack allocation in Java.
-*   **Garbage Collection**: Automatic memory deallocation.
+*   **Polymorphism**: Compile-time (Method Overloading) and Runtime (Method Overriding).
+*   **Inheritance**: Single, Hierarchical, and Multilevel.
+*   **Encapsulation**: Data hiding using access modifiers and getters/setters.
+*   **Abstraction**: Hiding complexity using Abstract classes and Interfaces.
+*   **Memory Management**: Understanding Heap vs Stack allocation.
 
 ## 📖 Documentation
-You can find the detailed theory and comprehensive notes for all the above topics in the `NOTES.md` file or the exported `OOPS_Concepts_Java.pdf` document.
+You can find the detailed theory and comprehensive notes for all the above topics in the `NOTES.md` file.
 
 ---
 *Learning in public - Arpit Dhiman*
